@@ -1,0 +1,9 @@
+.idea
+.history
+screenshots
+data
+temp
+node_modules
+npm-debug.log
+_releases
+.github/workflows/
